@@ -11,7 +11,7 @@ If you would like to contribute to the maintainance of an existing project, you 
 
 In this repository you will find instructions regarding:
 
-- How do I get my project hosted by the Stream Reasoning Organization?
+- [How do I get my project hosted by the Stream Reasoning Organization?](./newproject.md)
 - How do I start to contribute to an existing project?
 - I had my code ready, but I cannot make it public yet! No worries, we have private repos.
 
