@@ -16,16 +16,23 @@ We recommend [1](https://choosealicense.com/).
 Do not forget to name all the authors of the resource, 
 the institution which supported the development.
 
-### Send an email to [info@streamreasoning.org](mailto:info@streamreasoning.org)
+### Agreement
 
+Send an email to [info@streamreasoning.org](mailto:info@streamreasoning.org)
+asking to create a repository for you.
 
 ### Make your resource findable
 
-Once 
+#### DOI
 
-# How do I start to contribute to an existing project?
-- [ ] LICENCE
-- [ ] List Contributors
-- [ ] DOI
-- [ ] WIKI
-- [ ] Project
+Once your repository is created, is 
+
+
+#### GitHub Page
+
+### Documentation
+
+
+### Maintainance Plan
+
+
