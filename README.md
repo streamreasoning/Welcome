@@ -16,4 +16,4 @@ In this repository you will find instructions regarding:
 - I had my code ready, but I cannot make it public yet! No worries, we have private repos.
 
 ## JOIN THE COMMUNITY ON SLACK!
-## ASK FOR AN [INVITE] (https://streamreasoningslack.herokuapp.com/)
+## ASK FOR AN [INVITE](https://streamreasoningslack.herokuapp.com/)
